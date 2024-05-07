@@ -1,5 +1,3 @@
-# Axel
-......... 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import example.util.Calculator;
